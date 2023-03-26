@@ -1,0 +1,37 @@
+.one
+{
+	width:400px;
+	height:150px;
+	background-color:#a600ff;
+	margin:auto;
+	margin-top:100px;
+	transition: all 1s linear;
+}
+
+.squ{
+	
+	background-color:gray;
+	width:250px;
+	height:150px;
+	border-radius:5px;
+	text-align:center;
+	margin:auto;
+	margin-top:150px;
+	padding-top:50px;
+	color:white;
+	font-size:30px;
+}
+
+.squ:hover
+{
+	border-radius:190px/150px;
+}
+
+.one:hover
+{
+	border:50px solid white;
+}
+
+body
+{
+}
